@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134 44" width="134" height="44" role="img" aria-label="LINKEDIN">
+  <rect x="1" y="1" width="132" height="42" rx="21" fill="#07080c" stroke="#e9ecf0" stroke-opacity=".55"/>
+  <rect x="1" y="1" width="132" height="42" rx="21" fill="none" stroke="#fff" stroke-width="1.6" stroke-dasharray="40 268">
+    <animate attributeName="stroke-dashoffset" values="0;-308" dur="3.6s" begin="1.75s" repeatCount="indefinite"/></rect>
+  <text x="67.0" y="28" text-anchor="middle" font-family="'Courier New',ui-monospace,monospace" font-size="14" letter-spacing="2" fill="#fff">LINKEDIN</text>
+</svg>

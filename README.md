@@ -1,17 +1,34 @@
-<p align="center"><img src="assets/banner.svg" alt="Sameer Motwani, software engineer and creative director" width="100%" /></p>
+<p align="center"><img src="assets/banner.svg" alt="Sameer Motwani, software engineer, creative director, model" width="100%" /></p>
 
 <p align="center">
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/tech"><img alt="Tech portfolio" src="https://img.shields.io/badge/tech_portfolio-ff6a2b?style=for-the-badge&labelColor=0b0d11" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/creative"><img alt="Creative portfolio" src="https://img.shields.io/badge/creative_portfolio-6a4bff?style=for-the-badge&labelColor=0b0d11" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-e9ecf0?style=for-the-badge&labelColor=0b0d11" /></a>
-  <a href="mailto:sameermotwani17@gmail.com"><img alt="Open to contract" src="https://img.shields.io/badge/open_to-contract_work-3ecf8e?style=for-the-badge&labelColor=0b0d11" /></a>
+  <a href="mailto:sameermotwani17@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44" /></a>
+  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
+  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/tech"><img src="assets/btn-tech.svg" alt="Tech" height="44" /></a>
+  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/creative"><img src="assets/btn-creative.svg" alt="Creative" height="44" /></a>
+  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/cv.pdf"><img src="assets/btn-cv.svg" alt="Cv" height="44" /></a>
+  <a href="https://www.linkedin.com/in/sameer-motwani-2625a62b5"><img src="assets/btn-linkedin.svg" alt="Linkedin" height="44" /></a>
+  <a href="https://www.tiktok.com/@we_love_you_retro"><img src="assets/btn-tiktok.svg" alt="Tiktok" height="44" /></a>
+  <a href="https://www.instagram.com/retro.studios_"><img src="assets/btn-instagram.svg" alt="Instagram" height="44" /></a>
+  <a href="https://open.spotify.com/artist/2vNpaYQTU7PNUh3BjOx07b"><img src="assets/btn-spotify.svg" alt="Spotify" height="44" /></a>
+  <a href="https://music.apple.com/jp/artist/retro/1803961641"><img src="assets/btn-apple-music.svg" alt="Apple Music" height="44" /></a>
 </p>
 
-## Locked in
+<table>
+<tr>
+<td valign="top">
 
-I build and ship production software and AI systems, and I run **Retro Studios**, a one-person creative studio. I measure first, keep a fallback for every failure, and verify with data instead of trusting a report.
+## Yo, I'm Sameer, aka RETRO
+
+Software engineer, creative director and now **open to modeling work**. I build and ship production software and AI systems, run **Retro Studios**, and release music as RETRO. I measure first, keep a fallback for every failure and verify with data instead of trusting a report.
 
 **In plain English:** I make software that works for real people on bad internet, I test it honestly, and I plan for the day something breaks.
+
+Born in Monrovia, Liberia. Studied the IB in Israel. Now based in **Beppu, Japan** (JST), studying finance at APU and taking on contract work.
+
+</td>
+<td width="300" valign="top"><img src="assets/portrait.jpg" alt="Sameer Motwani" width="300" /></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
@@ -19,7 +36,7 @@ I build and ship production software and AI systems, and I run **Retro Studios**
 
 - **Contract software engineer at Stick'Em**, a Singapore EdTech and 2025 Hult Prize Global winner. Rebuilt slide delivery for classrooms in Brunei and the Philippines: about **15x faster on Slow-3G** (678 ms vs 10 s+), with the old iframe kept as an automatic fallback.
 - **Founder of Retro Studios** under StarLabs. A paid 12-country World Cup campaign, a solo-built store with live PayPal and Stripe, and brand, site and video work for a Techstars Tokyo startup.
-- **B.B.A. in Finance at APU**, Beppu, Japan. 1st place at the APU Annual Hackathon 2025 and Hult Prize APU runner-up with Best Speaker.
+- **B.B.A. in Finance at APU**, Beppu. 1st place at the APU Annual Hackathon 2025 and Hult Prize APU runner-up with Best Speaker.
 
 ## Shipping log
 
@@ -66,10 +83,6 @@ The longer write-ups live on the portfolio, each with the problem, constraints, 
 
 ## Work with me
 
-Contract and freelance: software engineering, AI-first builds and agents, clipping and short-form, and brand-plus-build launches. Part-time, remote worldwide or Japan.
+Contract and freelance: software engineering, AI-first builds and agents, clipping and short-form, and brand-plus-build launches. Part-time, remote worldwide or Japan. Also open to modeling work.
 
-<p align="center">
-  <a href="mailto:sameermotwani17@gmail.com?subject=Project"><img alt="Pitch me a project" src="https://img.shields.io/badge/pitch_me_a_project-ff6a2b?style=for-the-badge&labelColor=0b0d11" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#hire"><img alt="How I work" src="https://img.shields.io/badge/how_i_work-e9ecf0?style=for-the-badge&labelColor=0b0d11" /></a>
-  <a href="https://www.linkedin.com/in/sameer-motwani-2625a62b5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+[**Pitch me a project**](mailto:sameermotwani17@gmail.com?subject=Project) · [How I work](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#hire) · [Modeling book](https://portfolio-sameermotwani17-cells-projects.vercel.app/creative#modeling)
