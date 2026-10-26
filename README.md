@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="mailto:sameermotwani17@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/tech"><img src="assets/btn-tech.svg" alt="Tech" height="44" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/creative"><img src="assets/btn-creative.svg" alt="Creative" height="44" /></a>
-  <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app/cv.pdf"><img src="assets/btn-cv.svg" alt="Cv" height="44" /></a>
+  <a href="https://xsofficialbrand.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
+  <a href="https://xsofficialbrand.com/tech"><img src="assets/btn-tech.svg" alt="Tech" height="44" /></a>
+  <a href="https://xsofficialbrand.com/creative"><img src="assets/btn-creative.svg" alt="Creative" height="44" /></a>
+  <a href="https://xsofficialbrand.com/cv.pdf"><img src="assets/btn-cv.svg" alt="Cv" height="44" /></a>
   <a href="https://www.linkedin.com/in/sameer-motwani-2625a62b5"><img src="assets/btn-linkedin.svg" alt="Linkedin" height="44" /></a>
   <a href="https://www.tiktok.com/@we_love_you_retro"><img src="assets/btn-tiktok.svg" alt="Tiktok" height="44" /></a>
   <a href="https://www.instagram.com/retro.studios_"><img src="assets/btn-instagram.svg" alt="Instagram" height="44" /></a>
@@ -34,9 +34,8 @@ Born in Monrovia, Liberia. Studied the IB in Israel. Now based in **Beppu, Japan
 
 ## Now
 
-- **Taking new contract work.** My **Stick'Em** contract ended in September and **Ajiwow** wraps in November, so I have open capacity now and more from then.
+- **Taking new contract work.** My **Stick'Em** contract ended in September, so I have open capacity now.
 - **Stick'Em** (Singapore EdTech, 2025 Hult Prize Global winner), contract software engineer, May to Sep 2026. Rebuilt slide delivery for classrooms in Brunei and the Philippines: about **15x faster on Slow-3G** (678 ms vs 10 s+), with the old iframe kept as an automatic fallback.
-- **Ajiwow** (Tokyo food-tech, Techstars Tokyo 2026), freelance creative technologist, Sep 30 to Nov 2026. Brand system, a bilingual site on Azure with push-to-deploy, a print pipeline and video direction.
 - **Founder of Retro Studios** under StarLabs, and **B.B.A. in Finance at APU**, Beppu. 1st place at the APU Annual Hackathon 2025 and Hult Prize APU runner-up with Best Speaker.
 
 ## Shipping log
@@ -62,12 +61,11 @@ The longer write-ups live on the portfolio, each with the problem, constraints, 
 
 | | Build | Headline |
 |---|---|---|
-| 01 | [Stick'Em SlideViewer](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | 678 ms vs 10 s+ on Slow-3G, with a fallback for every failure |
-| 02 | [Ajiwow site and pipelines](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | Astro on Azure, push-to-deploy, a 31-point print check |
-| 03 | [SCRAPYARD](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | A multiplayer shooter from a 200-line spec in one day, 91 tests |
-| 04 | [AI Hack 2026](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | AUC 0.7635, Kyoto finalist, the only all-freshman team |
-| 05 | [Curriculum engine](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | An AI that picks from a list and never invents a standard |
-| 06 | [GOMI Snap](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#builds) | 520+ organic users, 95.3% adoption intent (n=400) |
+| 01 | [Stick'Em SlideViewer](https://xsofficialbrand.com/tech#builds) | 678 ms vs 10 s+ on Slow-3G, with a fallback for every failure |
+| 02 | [SCRAPYARD](https://xsofficialbrand.com/tech#builds) | A multiplayer shooter from a 200-line spec in one day, 91 tests |
+| 03 | [AI Hack 2026](https://xsofficialbrand.com/tech#builds) | AUC 0.7635, Kyoto finalist, the only all-freshman team |
+| 04 | [Curriculum engine](https://xsofficialbrand.com/tech#builds) | An AI that picks from a list and never invents a standard |
+| 05 | [GOMI Snap](https://xsofficialbrand.com/tech#builds) | 520+ organic users, 95.3% adoption intent (n=400) |
 
 ## Stack
 
@@ -86,4 +84,4 @@ The longer write-ups live on the portfolio, each with the problem, constraints, 
 
 Contract and freelance: software engineering, AI-first builds and agents, clipping and short-form, and brand-plus-build launches. Part-time, remote worldwide or Japan. Also open to modeling work.
 
-[**Pitch me a project**](mailto:sameermotwani17@gmail.com?subject=Project) · [How I work](https://portfolio-sameermotwani17-cells-projects.vercel.app/tech#hire) · [Modeling book](https://portfolio-sameermotwani17-cells-projects.vercel.app/creative#modeling)
+[**Pitch me a project**](mailto:sameermotwani17@gmail.com?subject=Project) · [How I work](https://xsofficialbrand.com/tech#hire) · [Modeling book](https://xsofficialbrand.com/creative#modeling)
